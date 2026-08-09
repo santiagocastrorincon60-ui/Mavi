@@ -266,7 +266,7 @@ const referencias = {
             "/Animacion/animacion4.jpg",
             "/Animacion/animacion5.jpg",
             "/Animacion/animacion6.jpg"
-    ]
+    ],
 
 };
 
@@ -321,4 +321,3 @@ if __name__ == "__main__":
     debug=False,
     use_reloader=False
 )
-    
